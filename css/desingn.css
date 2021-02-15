@@ -1,0 +1,45 @@
+*{
+    font-family: monospace;
+    
+}
+header{
+    text-align:center;
+}
+.encima{
+    color:aliceblue;
+    background-color: blueviolet;
+    text-align: center;
+    border: 20px solid black;
+   padding: 15px 15px 30px 15px;
+}
+.papa{
+    margin: 15px 15px 30px 15px;
+}
+header{
+    width: 1300px;
+    margin:auto;
+}
+section{
+    margin:auto;
+    width: 1000px;
+}
+ul{
+    list-style: none;
+}
+.listas{
+
+    margin: 15px 0px 0px 0px;
+}
+section ul{
+    margin: 0px 0px 0px 15px;
+}
+.sec_listados{
+    margin: auto;
+    padding: 0px 0px 0px 15px;
+    list-style: none;
+}
+list-style: none;
+li{
+    margin: auto;
+    
+}
